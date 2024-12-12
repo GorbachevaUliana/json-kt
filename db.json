@@ -36,5 +36,55 @@
             "price":"$20,588",
             "banner":"https://s3-alpha-sig.figma.com/img/c107/b84c/e14115641f91d3c5034f6e80f054f258?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=oKv-mNo~J0qXDtR17uyOobfy9Db6kkU90Y-BNABcxOllXPQh0zQ8gQWqQ-XMUryMLYiXE6GNo9WHxNKcUeIWMNCB93PLyNSzCVADVkoJaOp~Ir8f72OxF~bDZnh2LnkclKKr16zuQHw8Hftz7EgBg6Uy93Mjv7j3HQ~aY0akb3tfELv7WM6i8o1kCGAVaX2KWEDbT3CMlFGQ-GXnQnEdrsnOm0rxyb7jNlUkbZQOt20K8lZAv81PDnJAfQG5noscetwo2jOgPeUY1zzBwrwcZBBn7brDzARrBFtXcu3Ljqy5L5ZDy23VFHytX1pTvw1EiSbiuLy5tWsQOOFqeWnp4g__"
         }
+    ],
+    "sites": [
+        {
+            "id":1,
+            "title":"eBay",
+            "description":"Веб-сайтом eBay.com и его местными версиями в нескольких странах владела компания eBay Enterprise, ",
+            "banner":"https://s3-alpha-sig.figma.com/img/4834/a604/c014cda0b2337e0984d5a4af8f745d8f?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=E~LlC2oxGFZegnLbUnS95rSNE38~DRBU1rH~97s29bPbCtyg8CSt~rydUg0nqeTNtem3f0eXPE23Cwkcc5Bb6kOZLQ-lhBCvomh~tHtQuTkMH7b3mLpCxFIQ-YNKZ81NJ4Vp-CdaqygD0aH~3Gm5EqkdPO9RY-P9-70sqrUlQLZQ70gTdh02fp50-W2hlquuLHlLd0G0ak-RhWC7FLVVLZhhnYikWCxQR4xBA-9zMU02iJu7yJROltcpOkGKxeLzmSBueAqbC6B6cmj7F7MmB2UbRT-vNdUzZomhsxKTkCSXNy68PAAX1eluXw3i9rNe4xdb~8kde5a2X4T3OtC~3w__",
+            "delivery":"до 7 дней",
+            "fee":"0,68%"
+        },
+        {
+            "id":2,
+            "title":"YOOX",
+            "description":"Веб-сайтом eBay.com и его местными версиями в нескольких странах владела компания eBay Enterprise, ",
+            "banner":"https://s3-alpha-sig.figma.com/img/7452/733d/3826cbdff7608adafee81b9e8613a76d?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=C6SUzk9D7osV5pzzqYGTWdWWU96jf4IYVe-XXf3gDvzye~abch~60CIJGh~is57Gk1ogd0vXCTelGuU1NqFTyTdLrIlxjCrrM-ApX~TJJYOyNSaf7BVCSZWFjDaFJgEZGD6OyH0MJorYz6SYfnYV0-veonYCbwfS0rOEqPsWXFCkE33lP4wnv~OEYCgTWA0WDbuvUPx6uaY7bMZBEIrYVanKVZwpNeSdtO7zqFn5GX-2t5A8NrkEzSaDRkVpolxcb8y-sQeb3Y5sAL7Bl1Fr4DABXT9wv49altra9O4TV57kxmR2WNt~fFNOHz-s-ZNnupgy8VEc3SaRN7M7TilWRg__",
+            "delivery":"до 7 дней",
+            "fee":"0,68%"
+        },
+        {
+            "id":3,
+            "title":"ZARA",
+            "description":"Веб-сайтом eBay.com и его местными версиями в нескольких странах владела компания eBay Enterprise, ",
+            "banner":"https://s3-alpha-sig.figma.com/img/93e8/ba04/8d5142cdc156dcd7035d358025757ec6?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Xb8q7xxVEUInzvzm2I8OtPlBwv2-AgshunVFRS3WpgvU~NFgwZUZ5LSlvyP6H8bExV--8c4Wg3nWsVlcakhV87APyhXb~cXDxf9HLFPMKthf3iYnpxGbVym3UarLcfq8dbXK0-99hP0SwYghh8YMGoJnJhiWGqTX0cyq-tkaCmf0Oth2lyaPCtgGN372VLDAVSGkvM5ayyHOpWw7QfiImzTej~KGddzGZ3CVxPctLgn95C2efnctYw2~f4mZIQQJawhgwo12~AR7Ka1ifPlcAiw-dvfc0CYtqS442PhLAVyrrVKfsaehGtKHdTgdNaQRXGMpPOUYY6aPA4jHiqFDeg__",
+            "delivery":"до 7 дней",
+            "fee":"0,68%"
+        },
+        {
+            "id":4,
+            "title":"eBay",
+            "description":"Веб-сайтом eBay.com и его местными версиями в нескольких странах владела компания eBay Enterprise, ",
+            "banner":"https://s3-alpha-sig.figma.com/img/4834/a604/c014cda0b2337e0984d5a4af8f745d8f?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=E~LlC2oxGFZegnLbUnS95rSNE38~DRBU1rH~97s29bPbCtyg8CSt~rydUg0nqeTNtem3f0eXPE23Cwkcc5Bb6kOZLQ-lhBCvomh~tHtQuTkMH7b3mLpCxFIQ-YNKZ81NJ4Vp-CdaqygD0aH~3Gm5EqkdPO9RY-P9-70sqrUlQLZQ70gTdh02fp50-W2hlquuLHlLd0G0ak-RhWC7FLVVLZhhnYikWCxQR4xBA-9zMU02iJu7yJROltcpOkGKxeLzmSBueAqbC6B6cmj7F7MmB2UbRT-vNdUzZomhsxKTkCSXNy68PAAX1eluXw3i9rNe4xdb~8kde5a2X4T3OtC~3w__",
+            "delivery":"до 7 дней",
+            "fee":"0,68%"
+        },
+        {
+            "id":5,
+            "title":"KITCHEN AID",
+            "description":"Веб-сайтом eBay.com и его местными версиями в нескольких странах владела компания eBay Enterprise, ",
+            "banner":"https://s3-alpha-sig.figma.com/img/b033/e288/c45867e8c9ba05f2655a5b10f65edc1f?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=YsNYx54AZq9-OFG7CXIh~970pL6uJGmWEIgXOk5Hp~~t76lZ8Rs~8htp8uJYqNeZpV3WMStT2Rzc6AtT2q1YTEPecy1b6DBOGrkQubgJR~zWl6NDqA7vhlSwsTgAld5y1UaXvSWHJs6~BhmvBu~LYrXfMi-dZemK0VUYJi7rSQuCSspidJx00nMgYg5xSucySJEOHnP5JYACzAv9b-VkAAqLB0uTB73X~6MAZqkWfTKFjphGBLKllvRMazvjZBI0c2n2daN~46MAyT7SDtmzhU~46ubAlz1Q8Rcq-8HGn4YRVLSIuWLO5p9RNWYQRVzdjirqllp8H0hSJ5ftwPAYvw__",
+            "delivery":"до 7 дней",
+            "fee":"0,68%"
+        },
+        {
+            "id":6,
+            "title":"YOOX",
+            "description":"Веб-сайтом eBay.com и его местными версиями в нескольких странах владела компания eBay Enterprise, ",
+            "banner":"https://s3-alpha-sig.figma.com/img/7452/733d/3826cbdff7608adafee81b9e8613a76d?Expires=1734912000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=C6SUzk9D7osV5pzzqYGTWdWWU96jf4IYVe-XXf3gDvzye~abch~60CIJGh~is57Gk1ogd0vXCTelGuU1NqFTyTdLrIlxjCrrM-ApX~TJJYOyNSaf7BVCSZWFjDaFJgEZGD6OyH0MJorYz6SYfnYV0-veonYCbwfS0rOEqPsWXFCkE33lP4wnv~OEYCgTWA0WDbuvUPx6uaY7bMZBEIrYVanKVZwpNeSdtO7zqFn5GX-2t5A8NrkEzSaDRkVpolxcb8y-sQeb3Y5sAL7Bl1Fr4DABXT9wv49altra9O4TV57kxmR2WNt~fFNOHz-s-ZNnupgy8VEc3SaRN7M7TilWRg__",
+            "delivery":"до 7 дней",
+            "fee":"0,68%"
+        }
     ]
 }
